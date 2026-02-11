@@ -1,0 +1,15 @@
+{
+  "data_dir": "data/respiratory_sound_database",
+  "diagnosis_file": "data/demographic_info.txt",
+  "task": "multiclass",
+  "mode": "full",
+  "results_dir": "results",
+  "target_shape": [40, 40],
+  "epochs": 50,
+  "batch_size": 32,
+  "gwo_wolves": 20,
+  "gwo_iterations": 50,
+  "n_splits": 5,
+  "augment": true,
+  "seed": 42
+}
