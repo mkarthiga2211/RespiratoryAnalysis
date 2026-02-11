@@ -248,7 +248,7 @@ Run unit tests:
 python -m pytest tests/
 ```
 
-## Citation
+'''## Citation
 
 If you use this code in your research, please cite:
 
