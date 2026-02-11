@@ -248,18 +248,6 @@ Run unit tests:
 python -m pytest tests/
 ```
 
-'''## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{rajasekar2024respiratory,
-  title={Enhanced Respiratory Condition Diagnosis Through Mel Spectrogram Features and Metaheuristic-Optimized CNNs},
-  author={Rajasekar, SS and Othman, Manal and Karthiga, M and Saranya, K and Balusamy, Balamurugan and Khan, Firoz and Adubango, Musa Safiki and Nebhani, Naima},
-  journal={Journal of Medical Systems},
-  year={2024}
-}
-```
 
 ## License
 
